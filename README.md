@@ -1,7 +1,6 @@
 # YT_Down 🎥⬇️
 
-A Python-based command-line YouTube downloader that supports both single videos and playlists, with customizable video quality options.  
-Built with **yt-dlp** for fast, reliable downloads and a simple interactive interface.
+A Python-based command-line YouTube downloader that supports both single videos and playlists, with customizable video quality options.
 
 ---
 
